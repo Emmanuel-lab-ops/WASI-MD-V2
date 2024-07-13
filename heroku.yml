@@ -4,3 +4,4 @@
        web: WASI_MD
  run:
    web: npm start
+npm install 
